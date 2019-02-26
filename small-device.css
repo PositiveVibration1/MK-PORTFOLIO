@@ -1,0 +1,51 @@
+#coverPhoto{
+	background-image: url(images/iphonebg.png);
+	background-color: black;
+	min-height: 480px;
+	/*background-size:100% auto;*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	/*width: 1700px;*/
+}
+#bookme{
+	display: none;
+}
+#logo{
+	display: none;
+}
+#logohome{
+	position: fixed;
+	background-image: url(images/MKzLogo.png);
+	/*background-size: contain;*/
+	/*max-height: 57px;*/
+	width: 100px;
+	left: 230px;
+	top: 15px;
+	/*margin-left:-400px;*/
+	/*right: -10%;*/
+	/*background-color: white-space: ;*/
+
+	/*background-size: contain;*/
+
+	background-repeat: no-repeat;
+}
+/*li{
+	
+	float: right;
+}*/
+.navtext{
+	color: rgb(0, 214, 145);
+	font-weight: bold;
+	font-size: 1.5em;
+	font-family: 'Denk One', sans-serif;
+}
+}
+#navs{
+	/*min-height: 50px;*/
+	/*position: absolute;*/
+	right: 160px;
+	margin-left: 900px;
+	position: fixed;
+	
+
+}
